@@ -10,7 +10,7 @@ Understanding context is essential for ESL (English as a Second Language) studen
 
 ## **Tutorial**
 
-https://pseudo-lab.github.io/Tutorial-Book/chapters/NLP/intro.html
+* https://pseudo-lab.github.io/Tutorial-Book/chapters/NLP/intro.html
 
 ## **Contributors**
 
