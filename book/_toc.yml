@@ -1,0 +1,4 @@
+- file: index
+  sections:
+    - file: about
+      title: About Pseudo Lab
